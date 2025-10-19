@@ -1,0 +1,10 @@
+
+node_modules
+session
+.env
+.env.local
+*.log
+database/*.db
+database/*.json
+/sessions
+.DS_Store

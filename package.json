@@ -1,0 +1,21 @@
+{
+  "name": "coremind-system-bot",
+  "version": "2.0.0",
+  "description": "CoreMind System Bot - Full scaffold with many example commands and assets for Termux/VPS/Windows.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dany",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^7.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.0.0",
+    "dotenv": "^16.0.0",
+    "ffmpeg-static": "^5.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "sharp": "^0.32.0",
+    "node-fetch": "^3.3.2"
+  }
+}
